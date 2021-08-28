@@ -1,1 +1,1 @@
-# Pred_BWShirt_DL
+# Prediction of white and blackshirt using Deep Learning
